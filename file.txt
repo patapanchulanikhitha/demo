@@ -2,3 +2,4 @@ hello this is my first line
 i am siri , i am adding second line
 third line to understand fetch and merge
 fourth line to learn branch merge
+I am in branch2 , I am assigned with a new task, and its done
